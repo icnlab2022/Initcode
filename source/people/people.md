@@ -23,7 +23,7 @@ Website: https://icnlab2022.github.io/github.io/  -->
         <p>School of Optical-Electrical and Computer Engineering</p>
         <p>No. 1111, Optical-Electrical Building, University of Shanghai for Science and Technology, 516 Jungong Rd. Shanghai 200093, P.R.China</p>
         <p>Email: <a href="mailto:hxue@usst.edu.cn">hxue@usst.edu.cn</a></p>
-        <p>Website: <a href="https://icnlab2022.github.io/github.io/">https://icnlab2022.github.io/github.io/</a></p>
+        <p>Website: <a href="https://icnlab2022.github.io">https://icnlab2022.github.io</a></p>
     </div>
     <img src="../pic/Hai.jpg" alt="Hai Xue" style="width: 250px; margin-top: -50px;">
 </div>
@@ -76,6 +76,8 @@ Website: https://icnlab2022.github.io/github.io/  -->
 <!-- ### Awards and Achievements -->
 <strong><span style="font-size: 1.17em;">Awards and Achievements</span></strong>
 
+- **Reviewer Excellence Certificate**, Physical Communication (Oct. 2024)
+- **Reviewer Excellence Certificate**, Computer Networks (Sep. 2024)
 - **BK21 Plus Research Scholarship**, Korea University (Sep. 2021-Feb. 2022)
 - **SSUNGKYUN HONORABLE SCHOLARSHIP** (waiver of tuition), Sungkyunkwan University (Mar. 2016-Sep. 2017)
 - **Bright International Student Scholarship** (waiver of tuition), Sungkyunkwan University (Sep. 2021-Feb. 2022)
@@ -97,7 +99,7 @@ Website: https://icnlab2022.github.io/github.io/  -->
 <strong><span style="font-size: 1em;">Conference Reviewer:</span></strong>
 
 - **IFIP-IEEE IM** 2021, **ICCCN** 2021, **APNOMS** 22nd, 23rd
-- **INFOCOM** 2022, **IEEE ICC’22-CSM Symposium, IWQoS** 2022, **Globecom** 2024
+- **INFOCOM** 2022, **IEEE ICC’22/25-CSM Symposium, IWQoS** 2022, **Globecom** 2024
 
 <!-- #### Conference technical program committee -->
 <strong><span style="font-size: 1em;">Conference technical program committee:</span></strong>

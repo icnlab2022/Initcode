@@ -15,8 +15,9 @@ timezone: ''
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # url: http://example.com
 ## 本地运行时注释掉
+# url: https://icnlab2022.github.io
 url: https://icnlab2022.github.io
-root: /github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,5 +107,6 @@ theme: hexo-theme-primer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:icnlab2022/github.io.git
+  repo: git@github.com:icnlab2022/icnlab2022.github.io.git
+  # repo: git@github.com:icnlab2022/github.io.git
   branch: main
