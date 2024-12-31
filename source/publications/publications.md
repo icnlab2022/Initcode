@@ -2,7 +2,7 @@
 title: Publications
 ---
 ### Submitted Papers
-1. Y. Xia, **H. Xue\***, D. Zhang, S. Mumtaz, X. Xu, and J. J. Rodrigues, “Dynamic pricing based near-optimal resource allocation for elastic edge offloading,” *Submitted*.
+1. Y. Xia, **H. Xue\***, D. Zhang, S. Mumtaz, X. Xu, and J. J. Rodrigues, “Dynamic pricing based near-optimal resource allocation for elastic edge offloading,” *Major revision*.
 2. **H. Xue**, Y. Xia, N. N. Xiong, D. Zhang, and S. Pei*, “Ddps: Dynamic differential pricing-based edge offloading system with energy harvesting devices,” *Major revision*.
 
 3. Q. Yu, **H. Xue\***, C. Wu, Y. Liu, and W. Guo, “Yardstick pricing-based incentive mechanism for federated learning in edge computing,” *Submitted*.

@@ -108,6 +108,7 @@ Website: https://icnlab2022.github.io/github.io/  -->
 - **ICCC 2024**, TPC Member
 - **IWQoS 2024**, Session Chair
 - **JCRAI 2024**, Special Session Chair
+- **CoNEXT 2025**, Shadow TPC 
 
 
 # Students
