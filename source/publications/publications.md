@@ -7,6 +7,8 @@ title: Publications
 
 3. Q. Yu, **H. Xue\***, C. Wu, Y. Liu, and W. Guo, “Yardstick pricing-based incentive mechanism for federated learning in edge computing,” *Submitted*.
 
+4. **H. Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach,” *Submitted*.
+
 
 ### Journal Articles
 

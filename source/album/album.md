@@ -1,6 +1,20 @@
 ---
 title: Photo Album
 ---
+### Team Building at Xingmeijian Peak on New Year's Day (2025.1.1)
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1; padding: 10px;">
+        <p style="text-align: justify;">As the new year dawned, three graduate students, Xia Yun, Liu Bo, and Chen Chuhao, embarked on a journey to conquer 
+         Xingmeijian Peak in Fuyang District, Hangzhou. Amidst the rigorous academic pursuits, they managed to find time to fully unwind and 
+          rejuvenate their spirits. Furthermore, each of them harbored aspirations to advance in their studies, much like scaling a mountain, 
+           rising steadily and continuously!</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="../pic/杏梅尖.jpg" alt="USST" style="width: auto; max-height: 300px; height: auto;">
+    </div>
+</div>
+
+
 ### The second "Beautiful China" Innovation Design Competition for Chinese graduate students (2024.9.22)
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; padding: 10px;">
