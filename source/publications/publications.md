@@ -48,15 +48,17 @@ DOI: <a href="https://doi.org/10.1007/s10994-023-06453-3" style="color: black; t
 
 ### Conference Proceedings
 
-1. **H. Xue\*** and Y. Xia, “Profit-aware edge server placement based on all-pay auction for edge offloading,” <strong><em>in Proceedings of IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2024, pp. 1–2. <a href="https://ieeexplore.ieee.org/document/10682876"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/10682876" style="color: black; text-decoration: none;">10.1109/IWQoS61813.2024.10682876</a>
+1. W. Guo, D. Zhen, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively modeling ui transition graphs for android apps via reinforcement learning,” <strong><em>Accept in Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2025.
+
+2. **H. Xue\*** and Y. Xia, “Profit-aware edge server placement based on all-pay auction for edge offloading,” <strong><em>in Proceedings of IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2024, pp. 1–2. <a href="https://ieeexplore.ieee.org/document/10682876"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/10682876" style="color: black; text-decoration: none;">10.1109/IWQoS61813.2024.10682876</a>
 <!-- [10.1109/IWQoS61813.2024.10682876](https://ieeexplore.ieee.org/document/10682876). -->
 
-2. X. Chen, **H. Xue**, M. Kim, C. Wang, and H. Y. Youn*, “Detection of falls with smartphone using machine learning technique,” <strong><em>in Proceedings of 8th International Congress on Advanced Applied Informatics (IIAI-AAI)</em></strong>, (<span style="color: blue;">EI</span>) 2019, pp. 611–616. <a href="https://ieeexplore.ieee.org/document/8992596"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/8992596" style="color: black; text-decoration: none;">10.1109/IIAI-AAI.2019.00129</a>
+3. X. Chen, **H. Xue**, M. Kim, C. Wang, and H. Y. Youn*, “Detection of falls with smartphone using machine learning technique,” <strong><em>in Proceedings of 8th International Congress on Advanced Applied Informatics (IIAI-AAI)</em></strong>, (<span style="color: blue;">EI</span>) 2019, pp. 611–616. <a href="https://ieeexplore.ieee.org/document/8992596"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/8992596" style="color: black; text-decoration: none;">10.1109/IIAI-AAI.2019.00129</a>
 <!-- [10.1109/IIAI-AAI.2019.00129](https://ieeexplore.ieee.org/document/8992596). -->
 
-3. **H. Xue** and I. Joe*, “Throughput enhancement for relay backhaul link using guard band in the fdd and tdd coexistence of lte-a system,” <strong><em>in Proceedings of The Institute of Internet, Broadcasting and Communication (IIBC)</em></strong>, Seoul, South Korea, Nov. 2015, pp. 14–15.
+4. **H. Xue** and I. Joe*, “Throughput enhancement for relay backhaul link using guard band in the fdd and tdd coexistence of lte-a system,” <strong><em>in Proceedings of The Institute of Internet, Broadcasting and Communication (IIBC)</em></strong>, Seoul, South Korea, Nov. 2015, pp. 14–15.
 
-4. K. Yantao, C. Wang, P. Yin, **H. Xue**, and I. Joe*, “A high security data sharing platform for internet of things based on wamp structure using secure-restful strategy,” <strong><em>in Proceedings of Korean Institute of Smart Media (KISM)</em></strong>, Seoul, South Korea, Jul. 2015, pp. 80–84.
+5. K. Yantao, C. Wang, P. Yin, **H. Xue**, and I. Joe*, “A high security data sharing platform for internet of things based on wamp structure using secure-restful strategy,” <strong><em>in Proceedings of Korean Institute of Smart Media (KISM)</em></strong>, Seoul, South Korea, Jul. 2015, pp. 80–84.
 
 ### Patents
 

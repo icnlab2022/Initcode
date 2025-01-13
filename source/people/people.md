@@ -84,6 +84,8 @@ Website: https://icnlab2022.github.io/github.io/  -->
 
 <!-- ### Professional Activity -->
 <strong><span style="font-size: 1.17em;">Professional Activity</span></strong>
+<strong><span style="font-size: 1em;">Editor:</span></strong>
+- **Associate editor** of EURASIP Journal on Information Security
 
 <!-- #### Journal Reviewer: -->
 <strong><span style="font-size: 1em;">Journal Reviewer:</span></strong>
