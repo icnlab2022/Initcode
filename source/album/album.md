@@ -1,6 +1,19 @@
 ---
 title: Photo Album
 ---
+
+
+###  Group Dinner  (2025.1.19)
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1; text-align: left;">
+        <img src="../pic/聚餐.jpg" alt="USST" style="width: auto; max-height: 300px; height: auto;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <p style="text-align: justify;">Year-end party for 2024, and wish all of us healthy and fruitful achievements in 2025.</p>
+    </div>
+</div>
+
+
 ### Team Building at Xingmeijian Peak on New Year's Day (2025.1.1)
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; padding: 10px;">
