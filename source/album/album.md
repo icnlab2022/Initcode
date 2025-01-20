@@ -3,7 +3,7 @@ title: Photo Album
 ---
 
 
-###  Group Dinner  (2025.1.19)
+###  Year-end party  (2025.1.19)
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; text-align: left;">
         <img src="../pic/聚餐.jpg" alt="USST" style="width: auto; max-height: 300px; height: auto;">
