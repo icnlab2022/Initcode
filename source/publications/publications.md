@@ -2,14 +2,15 @@
 title: Publications
 ---
 ### Submitted Papers
-1. Y. Xia, **H. Xue\***, D. Zhang, S. Mumtaz, X. Xu, and J. J. Rodrigues, “Dynamic pricing based near-optimal resource allocation for elastic edge offloading,” *Major revision*.
-2. **H. Xue**, Y. Xia, N. N. Xiong, D. Zhang, and S. Pei*, “Ddps: Dynamic differential pricing-based edge offloading system with energy harvesting devices,” *Major revision*.
+1. **H Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach," <strong><em>Accept in IEEE INFOCOM Digital Twins over NextG Wireless Networks Workshop</em></strong> (<span style="color: blue;">CCF-A, EI</span>).
+2. Y. Xia, **H. Xue\***, D. Zhang, S. Mumtaz, X. Xu, and J. J. Rodrigues, “Dynamic pricing based near-optimal resource allocation for elastic edge offloading,” *Major revision*.
+3. **H. Xue**, Y. Xia, N. N. Xiong, D. Zhang, and S. Pei*, “Ddps: Dynamic differential pricing-based edge offloading system with energy harvesting devices,” *Major revision*.
 
-3. Q. Yu, **H. Xue\***, C. Wu, Y. Liu, and W. Guo, “Yardstick pricing-based incentive mechanism for federated learning in edge computing,” *Major revision*.
+4. Q. Yu, **H. Xue\***, C. Wu, Y. Liu, and W. Guo, “Yardstick pricing-based incentive mechanism for federated learning in edge computing,” *Major revision*.
 
-4. **H. Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach,” *Submitted*.
+5. **H. Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach,” *Submitted*.
 
-5. W. Guo, D. Zhen, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively modeling ui transition graphs for android apps via reinforcement learning,” <strong><em>Accept in Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2025.
+6. W. Guo, D. Zhen, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively modeling ui transition graphs for android apps via reinforcement learning,” <strong><em>Accept in Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2025.
 
 
 ### Journal Articles
