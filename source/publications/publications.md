@@ -8,9 +8,8 @@ title: Publications
 
 4. Q. Yu, **H. Xue\***, C. Wu, Y. Liu, and W. Guo, “Yardstick pricing-based incentive mechanism for federated learning in edge computing,” *Major revision*.
 
-5. **H. Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach,” *Submitted*.
 
-6. W. Guo, D. Zhen, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively modeling ui transition graphs for android apps via reinforcement learning,” <strong><em>Accept in Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2025.
+5. W. Guo, D. Zhen, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively modeling ui transition graphs for android apps via reinforcement learning,” <strong><em>Accept in Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2025.
 
 
 ### Journal Articles
