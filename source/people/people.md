@@ -90,7 +90,7 @@ Website: https://icnlab2022.github.io/github.io/  -->
 
 <!-- #### Journal Reviewer: -->
 <strong><span style="font-size: 1em;">Journal Reviewer:</span></strong>
-- **IEEE** (IoT Journal, TMC, TWC, Access, Commun. Lett.)
+- **IEEE** (TC, IoT Journal, TMC, TWC, Access, Commun. Lett.)
 - **Elsevier** (CN, ICT Express, ASEJ, Phys. Commun., Ain Shames Eng. J.)
 - **Springer** (Wirel. Netw., J. Supercomput., Cluster Comput., Peer Peer Netw. Appl., Sci. Rep., Telecommun. Syst.)
 - **Wiley** (WCMC)
