@@ -2,6 +2,15 @@
 title: Photo Album
 ---
 
+###  Congratulations on graduation  (2025.6.16)
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1; text-align: left;">
+        <img src="../pic/graduation1.jpg" alt="USST" style="width: auto; max-height: 300px; height: auto;">
+    </div>
+    <div style="flex: 1; text-align: left;">
+        <img src="../pic/graduation2.jpg" alt="USST" style="width: auto; max-height: 300px; height: auto;">
+    </div>
+</div>
 
 ###  Year-end party  (2025.1.19)
 <div style="display: flex; align-items: flex-start;">

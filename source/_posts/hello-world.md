@@ -31,6 +31,8 @@ title: Hello, Welcome to iCN!
 <div style="margin-top: 80px; ">
     <iframe src="./static/2.html" style="width: 100%; height: 300px; border: none; margin-top: -50px;"></iframe>
 </div>
+<!-- - <p style="font-size: 15px;">23 October 2024, Dr. Xue is awarded the <strong><em>Reviewer Excellence Certificate</em></strong> by Physical Communication!</p>
+
 <!-- - <p style="font-size: 15px;">22 September 2024, Dr. Xue is awarded the <strong><em>Reviewer Excellence Certificate</em></strong> for Computer Networks!</p>
 
 <!-- - <p style="font-size: 15px;">10 June 2024, our manuscript "All-pay Auction Based Profit Maximization in End-to-End Computation Offloading System" is accepted by the <strong><em>IEEE Transactions on Vehicular Technology</em></strong>!</p> -->

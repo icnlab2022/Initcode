@@ -53,10 +53,11 @@ Website: https://icnlab2022.github.io/github.io/  -->
 
 <!-- ## Research Interests -->
 <strong><span style="font-size: 1.5em;">Research Interests</span></strong>
-1. 6G Mobile Networks (RAN, Edge Computing, Intelligence, Core Network, etc.)
-2. Network Softwarization, Programmable Networks (SDN, NFV, etc.)
-3. Internet of Vehicles (V2X, IEEE 802.11p/WAVE, etc.)
 
+1. 6G Communication Networks (RAN, Edge Computing/Intelligence, Low-Altitude Communication Networks, etc.)
+2. End-Edge-Cloud Collaborative Computing and Inference for Large/Small Models
+3. Deep Reinforcement Learning, Transfer Learning, Online Learning, etc.
+4. Internet of Vehicles (V2X, IEEE 802.11p/WAVE, etc.)
 ---
 
 <!-- ## Skills -->
@@ -79,14 +80,15 @@ Website: https://icnlab2022.github.io/github.io/  -->
 - **Reviewer Excellence Certificate**, Physical Communication (Oct. 2024)
 - **Reviewer Excellence Certificate**, Computer Networks (Sep. 2024)
 - **BK21 Plus Research Scholarship**, Korea University (Sep. 2021-Feb. 2022)
-- **SSUNGKYUN HONORABLE SCHOLARSHIP** (waiver of tuition), Sungkyunkwan University (Mar. 2016-Sep. 2017)
+- **SUNGKYUN HONORABLE SCHOLARSHIP** (waiver of tuition), Sungkyunkwan University (Mar. 2016-Sep. 2017)
 - **Bright International Student Scholarship** (waiver of tuition), Sungkyunkwan University (Sep. 2021-Feb. 2022)
 
 <!-- ### Professional Activity -->
 <strong><span style="font-size: 1.17em;">Professional Activity</span></strong>
 
 <strong><span style="font-size: 1em;">Editor:</span></strong>
-- **Associate editor:** EURASIP Journal on Information Security (2025.01 ~)
+- **Associate editor:** EURASIP Journal on Information Security (2025.03 ~)
+- **Associate editor:** International Journal Of Autonomous And Adaptive Communications Systems (2025.03 ~)
 
 <!-- #### Journal Reviewer: -->
 <strong><span style="font-size: 1em;">Journal Reviewer:</span></strong>
@@ -108,13 +110,14 @@ Website: https://icnlab2022.github.io/github.io/  -->
 <strong><span style="font-size: 1em;">Conference technical program committee:</span></strong>
 
 - **ICA3PP** 2023, 2024, PC Member
-- **ICCC 2024**, TPC Member
+- **ICCC 2024，2025**, TPC Member
 - **IWQoS 2024**, Session Chair
 - **JCRAI 2024**, Special Session Chair
 - **CoNEXT 2025**, Shadow TPC 
 
 
 # Students
+
 <!-- ## Current -->
 <strong><span style="font-size: 1.5em;">Current</span></strong>
 <!-- <strong><span style="font-size: 1.17em;">Master Students</span></strong>
@@ -128,13 +131,17 @@ Website: https://icnlab2022.github.io/github.io/  -->
 
 <div style="display: flex; justify-content: space-between;">
 
+
+
 <div style="width: 48%; padding: 10px; box-sizing: border-box;">
 <strong><span style="font-size: 1.17em;">Master Students</span></strong>
 
 - Chuhao Chen (2024)  
 - Bo Liu (2024)  
 - Liukun Shang (2024)  
-- Yun Xia (2022)  
+- Liufan Li (2025) 
+- Tailai Zhang (2025)
+- Chenglong Xu (2025) 
 </div>
 
 <div style="width: 48%; padding: 10px; box-sizing: border-box;">
@@ -146,4 +153,12 @@ Website: https://icnlab2022.github.io/github.io/  -->
 - Qianhui Yu (2021)  
 </div>
 
+</div>
+
+<!-- Alumni -->
+<div style="margin-bottom: 40px;">
+  <strong><span style="font-size: 1.5em;">Alumni</span></strong>
+  <ul>
+    <li>Yun Xia (Ph.D Student at BUPT, M.S, 2025. 07)</li>
+  </ul>
 </div>
