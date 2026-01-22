@@ -1,12 +1,31 @@
 ---
 title: Publications
 ---
+
+<style>
+/* 符合英文音节规则的分词 */
+ol {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    text-align: justify;
+}
+
+/* 确保在英文环境下 */
+ol, li {
+    lang: "en";
+}
+</style>
+
 ### Submitted Papers
-1. **H Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach," <strong><em>Accept in IEEE INFOCOM Digital Twins over NextG Wireless Networks Workshop</em></strong> (<span style="color: blue;">CCF-A, EI</span>).
 
 
+1. Y. Liu, Y. Zhai, B. Qu, **H. Xue**, and X. Liu, "Fed-WGCA : a federated learning framework with coordinate attention and WGAN for enhanced performance,"  <strong><em>IEEE Internet of Things Journal</em></strong>, early access, 2025, (<span style="color: blue;"> CCF-C, JCR Q1, 中科院2区</span>).<a href="https://ieeexplore.ieee.org/document/11313080"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI:<a href="https://ieeexplore.ieee.org/document/11313080" style="color: black; text-decoration: none;">10.1109/JIOT.2025.3647709</a>
 
 ### Journal Articles
+
+
+
 1. Y. Xia, **H. Xue\***, D. Zhang, S. Mumtaz, X. Xu, and J. J. Rodrigues, “Dynamic pricing based near-optimal resource allocation for elastic edge offloading,” <strong><em>IEEE Transactions on Mobile Computing </em></strong>, vol. 24, no. 9, pp. 8057-8070, 2025, (<span style="color: blue;"> CCF-A, JCR Q1, 中科院1区Top</span>).<a href="https://ieeexplore.ieee.org/document/10935757">
 <img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/10935757" style="color: black; text-decoration: none;">10.1109/TMC.2025.3553188</a>
 
@@ -19,7 +38,7 @@ title: Publications
 
 
 <!-- [10.1007/s10994-023-06453-3](https://doi.org/10.1007/s10994-023-06453-3). -->
-5. C. Wang, L. Chen, C. Tang, Y. Wang, Y. Xian, Y. Zhao, **H. Xue**, and Z. Huan*, “Enhanced time-sensitive networking configuration detection using optimized bpnn with feature selection for industry 4.0,” <strong><em>Cluster Computing</em></strong>, vol. 27, no. 7, pp. 9795–9810, 2024, (<span style="color: blue;">JCR Q2, 中科院3区</span>).<a href="https://doi.org/10.1007/s10586-024-04493-5"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;">
+5. C. Wang, L. Chen, C. Tang, Y. Wang, Y. Xian, Y. Zhao, **H. Xue**, and Z. Huan*, “Enhanced time-sensitive networking configuration detection using optimized bpnn with feature selection for industry 4.0,” Cluster Computing, vol. 27, no. 7, pp. 9795–9810, 2024, (<span style="color: blue;">JCR Q2, 中科院3区</span>).<a href="https://doi.org/10.1007/s10586-024-04493-5"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;">
 </a> DOI: <a href="https://doi.org/10.1007/s10586-024-04493-5" style="color: black; text-decoration: none;">10.1007/s10586-024-04493-5</a>
 <!-- [10.1007/s10586-024-04493-5](https://doi.org/10.1007/s10586-024-04493-5). -->
 
@@ -31,9 +50,9 @@ title: Publications
 8. **H. Xue**, D. Zhang*, C. Wu, Y. Ji, S. Long, C. Wang, and T. Sato, “Parameter estimation-aided edge server selection mechanism for edge task offloading,” <strong><em>IEEE Transactions on Vehicular Technology</em></strong>, vol. 73, no. 2, pp. 2506–2519, 2024, (<span style="color: blue;">JCR Q1, 中科院2区Top</span>). <a href="https://ieeexplore.ieee.org/document/10244085"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/10244085" style="color: black; text-decoration: none;">10.1109/TVT.2023.3313162</a>
 <!-- [10.1109/TVT.2023.3313162](https://ieeexplore.ieee.org/document/10244085). -->
 
-9. **H. Xue**, S. Pack*, K. Kim, and H. Park, “A target selection scheme for learning-based switch migration in distributed software-defined networks,” <strong><em>The Journal of Korean Institute of Communications and Information Sciences</em></strong>, vol. 47, no. 1, pp. 13–20, 2022, (<span style="color: blue;">KCI</span>). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11024362&language=ko_KR&hasTopBanner=true"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11024362&language=ko_KR&hasTopBanner=true" style="color: black; text-decoration: none;">10.7840/kics.2022.47.1.13</a>
+9. **H. Xue**, S. Pack*, K. Kim, and H. Park, “A target selection scheme for learning-based switch migration in distributed software-defined networks,” The Journal of Korean Institute of Communications and Information Sciences, vol. 47, no. 1, pp. 13–20, 2022, (<span style="color: blue;">KCI</span>). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11024362&language=ko_KR&hasTopBanner=true"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11024362&language=ko_KR&hasTopBanner=true" style="color: black; text-decoration: none;">10.7840/kics.2022.47.1.13</a>
 <!-- [10.7840/kics.2022.47.1.13](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11024362&language=ko_KR&hasTopBanner=true). -->
-10. **H. Xue**, K. T. Kim, and H. Y. Youn*, “Dynamic load balancing of software-defined networking based on genetic-ant colony optimization,” <strong><em>Sensors</em></strong>, vol. 19, no. 2, 2019, (<span style="color: blue;">JCR Q2, 中科院3区</span>). <a href="https://www.mdpi.com/1424-8220/19/2/311"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;">
+10. **H. Xue**, K. T. Kim, and H. Y. Youn*, “Dynamic load balancing of software-defined networking based on genetic-ant colony optimization,” Sensors, vol. 19, no. 2, 2019, (<span style="color: blue;">JCR Q2, 中科院3区</span>). <a href="https://www.mdpi.com/1424-8220/19/2/311"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;">
 </a> DOI: <a href="https://www.mdpi.com/1424-8220/19/2/311" style="color: black; text-decoration: none;">10.3390/s19020311</a>
 <!-- [10.3390/s19020311](https://www.mdpi.com/1424-8220/19/2/311). -->
 
@@ -46,18 +65,20 @@ title: Publications
 
 ### Conference Proceedings
 
-1. W. Guo, Z. Dong, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively Modeling UI Transition Graphs for Android Apps Via Reinforcement Learning,” <strong><em>in Proceedings of 2025 IEEE/ACM 33rd International Conference on Program Comprehension (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2025, pp. 13–24. <a href="https://ieeexplore.ieee.org/document/11025861"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/11025861" style="color: black; text-decoration: none;">10.1109/ICPC66645.2025.00011</a>
+1. W. Guo, Z. Dong, L. Shen, D. Zhou, B. Hu, C. Zhang, and **H. Xue**, “Effectively Modeling UI Transition Graphs for Android Apps Via Reinforcement Learning,” <em>in Proceedings of the 33rd International Conference on Program Comprehension<strong> (ICPC)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>),  Ottawa, ON, Canada, 2025, pp. 13–24. <a href="https://ieeexplore.ieee.org/document/11025861"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/11025861" style="color: black; text-decoration: none;">10.1109/ICPC66645.2025.00011</a>
 <!-- [10.1109/IWQoS61813.2024.10682876](https://ieeexplore.ieee.org/document/11025861). -->
 
-2. **H. Xue\*** and Y. Xia, “Profit-aware edge server placement based on all-pay auction for edge offloading,” <strong><em>in Proceedings of IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), 2024, pp. 1–2. <a href="https://ieeexplore.ieee.org/document/10682876"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/10682876" style="color: black; text-decoration: none;">10.1109/IWQoS61813.2024.10682876</a>
+2. **H Xue**, D. Luo, Y. Xia, M. Bilal, and Z. Liu*, “Digital twin-aided edge vehicle task offloading: an adaptive PPO-based approach," <em>in Proceedings of IEEE Conference on Computer Communications Workshops <strong>(INFOCOM WKSHPS)</em></strong>, (<span style="color: blue;">CCF-A, EI</span>),London, United Kingdom, 2025, pp. 1-6.<a href="https://ieeexplore.ieee.org/document/11152724"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/11152724" style="color: black; text-decoration: none;">10.1109/INFOCOMWKSHPS65812.2025.11152724.</a>
+
+3. **H. Xue\*** and Y. Xia, “Profit-aware edge server placement based on all-pay auction for edge offloading,” <em>in Proceedings of IEEE/ACM 32nd International Symposium on Quality of Service <strong>(IWQoS)</em></strong>, (<span style="color: blue;">CCF-B, EI</span>), Guangzhou, China, 2024, pp. 1–2. <a href="https://ieeexplore.ieee.org/document/10682876"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/10682876" style="color: black; text-decoration: none;">10.1109/IWQoS61813.2024.10682876</a>
 <!-- [10.1109/IWQoS61813.2024.10682876](https://ieeexplore.ieee.org/document/10682876). -->
 
-3. X. Chen, **H. Xue**, M. Kim, C. Wang, and H. Y. Youn*, “Detection of falls with smartphone using machine learning technique,” <strong><em>in Proceedings of 8th International Congress on Advanced Applied Informatics (IIAI-AAI)</em></strong>, (<span style="color: blue;">EI</span>) 2019, pp. 611–616. <a href="https://ieeexplore.ieee.org/document/8992596"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/8992596" style="color: black; text-decoration: none;">10.1109/IIAI-AAI.2019.00129</a>
+4. X. Chen, **H. Xue**, M. Kim, C. Wang, and H. Y. Youn*, “Detection of falls with smartphone using machine learning technique,”<em> in Proceedings of 8th International Congress on Advanced Applied Informatics (IIAI-AAI), </em>(<span style="color: blue;">EI</span>), Toyama, Japan, 2019, pp. 611–616. <a href="https://ieeexplore.ieee.org/document/8992596"><img src="../linkpng/link1.png" alt="link" style="width:15px; height:15px;"></a> DOI: <a href="https://ieeexplore.ieee.org/document/8992596" style="color: black; text-decoration: none;">10.1109/IIAI-AAI.2019.00129</a>
 <!-- [10.1109/IIAI-AAI.2019.00129](https://ieeexplore.ieee.org/document/8992596). -->
 
-4. **H. Xue** and I. Joe*, “Throughput enhancement for relay backhaul link using guard band in the fdd and tdd coexistence of lte-a system,” <strong><em>in Proceedings of The Institute of Internet, Broadcasting and Communication (IIBC)</em></strong>, Seoul, South Korea, Nov. 2015, pp. 14–15.
+5. **H. Xue** and I. Joe*, “Throughput enhancement for relay backhaul link using guard band in the fdd and tdd coexistence of lte-a system,” <em>in Proceedings of The Institute of Internet, Broadcasting and Communication (IIBC)</em>, Seoul, South Korea, 2015, pp. 14–15.
 
-5. K. Yantao, C. Wang, P. Yin, **H. Xue**, and I. Joe*, “A high security data sharing platform for internet of things based on wamp structure using secure-restful strategy,” <strong><em>in Proceedings of Korean Institute of Smart Media (KISM)</em></strong>, Seoul, South Korea, Jul. 2015, pp. 80–84.
+6. K. Yantao, C. Wang, P. Yin, **H. Xue**, and I. Joe*, “A high security data sharing platform for internet of things based on wamp structure using secure-restful strategy,” <em>in Proceedings of Korean Institute of Smart Media (KISM)</em>, Seoul, South Korea, 2015, pp. 80–84.
 
 ### Patents
 

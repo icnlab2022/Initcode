@@ -107,6 +107,7 @@ theme: hexo-theme-primer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:icnlab2022/icnlab2022.github.io.git
-  # repo: git@github.com:icnlab2022/github.io.git
+  repo: git@github.com:zhangtailai-hub/icn_lab.git
+    # repo: git@github.com:icnlab2022/github.io.git
   branch: main
+  

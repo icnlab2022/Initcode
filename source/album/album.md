@@ -2,6 +2,27 @@
 title: Photo Album
 ---
 
+###  Year-end party  (2026.1.21)
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1; text-align: left;">
+        <img src="../pic/2026-1.jpg" alt="USST" style="width: auto; max-height: 300px; height: auto;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <p style="text-align: justify;">Year-end party for 2025, and wish all of us healthy and fruitful achievements in 2026.</p>
+    </div>
+</div>
+
+### Semester kickoff party (2025.9.14)
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1; padding: 10px;">
+        <p style="text-align: justify;">To welcome the new semester, students from the ICN Lab gathered for a dinner.</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="../pic/2025-1.jpg" alt="USST" style="width: auto; max-height: 350px; height: auto;">
+    </div>
+</div>
+
+
 ###  Congratulations on graduation  (2025.6.16)
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; text-align: left;">
